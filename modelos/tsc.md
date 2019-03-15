@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: model
 title: Tutorial Sala de Chat
 parent: Inicio
 nav_order: 0
