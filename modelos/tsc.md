@@ -1,5 +1,8 @@
 ---
+layout: default
 title: Tutorial Sala de Chat
+parent: Inicio
+nav_order: 0
 ---
 <h4>Buen día para todos! ¿Cómo vienen con las Lecturas?</h4>
 <p>En este mensaje quisiera explicarles que es y como ingresar a la<a href="" target="_blank" rel="noreferrer noopener"> Sala de Chat</a>.</p>
