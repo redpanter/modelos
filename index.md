@@ -6,4 +6,4 @@ permalink: /
 has_children: true
 ---
 
-##Inicio de la pagina
+## Inicio de la pagina
