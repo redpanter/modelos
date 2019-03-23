@@ -2,3 +2,5 @@ encoding: UTF-8
 remote_theme: pmarsceill/just-the-docs
 theme: "just-the-docs"
 color_scheme: "dark"
+
+curso-actividad-practica: false
