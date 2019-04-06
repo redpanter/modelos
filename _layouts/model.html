@@ -1,7 +1,58 @@
 ---
 layout: default
 ---
-{{ content }}
-<textarea rows="6" cols="35" style="width: 100%; height: -webkit-fill-available;">
-{{ content }}
-</textarea>
+<script>
+   //Funcion para seleccionar un texto y copiarlo
+   function select(element){
+      if(element.nodeName.toLowerCase()=='textarea' || (element.nodeName.toLowerCase()=='input' && element.type=='text')){
+         element.select();
+         document.execCommand("copy");
+         return;
+      }
+      if (window.getSelection) {
+         var sel = window.getSelection();
+         var range = document.createRange();
+         range.selectNodeContents(element);
+         sel.removeAllRanges();
+         sel.addRange(range);
+         document.execCommand("copy");
+      }
+      else if (document.selection) {
+         document.selection.empty();
+         var range = document.body.createTextRange();
+         range.moveToElementText(element);
+         range.select();
+         document.execCommand("copy");
+      }
+   }
+</script>
+<h3>Mensaje Moelo:</h3>
+<div class="code-example">
+   {{ content }}
+</div>
+
+{% for curso in site.data.cursos %}
+   <h2>Curso: {{ curso.nombre }}</h2>
+   <h3>Título: {{ page.title
+               | replace: 'M1', curso.modulos.m1.nombre
+               | replace: 'M2', curso.modulos.m2.nombre
+               | replace: 'M3', curso.modulos.m3.nombre
+               | replace: 'DC', curso.modulos.dia_chat
+               | replace: 'DI', curso.dia_inicio
+               | replace: 'DF', curso.dia_fin
+               }}</h3>
+   <!-- Al clickear algun cuadro se debe seleccionar -->
+   <div onclick="select(this)">
+      {% highlight html %}
+      {{ content
+                  | replace: 'CC', curso.nombre
+                  | replace: 'M1', curso.modulos.m1.nombre
+                  | replace: 'M2', curso.modulos.m2.nombre
+                  | replace: 'M3', curso.modulos.m3.nombre
+                  | replace: 'DC', curso.modulos.dia_chat
+                  | replace: 'DI', curso.dia_inicio
+                  | replace: 'DF', curso.dia_fin
+                  }}
+      {% endhighlight %}
+   </div>
+{% endfor %}

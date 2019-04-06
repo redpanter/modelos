@@ -1,0 +1,35 @@
+- nombre: Atención al Público
+  dia_chat: jueves a las 9 a.m.
+  dia_inicio: 5 de febrero
+  dia_fin: 4 de mayo
+  links:
+    sc: https://www.edu.campusaprenderenred.com/mod/chat/view.php?id=3255
+    fc: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=3254
+
+  modulos:
+    m1:
+      nombre: El Afiliado un valioso capital de nuestra organizacion
+    m2:
+      nombre: La atención como proceso del servicio
+    m3:
+      nombre: El personal de contacto
+      f3: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=3179
+      c3: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=3178
+
+- nombre: Captación y Fidelización de Asociados
+  dia_chat: jueves a las 9 a.m.
+  dia_inicio: 5 de febrero
+  dia_fin: 4 de mayo
+  links:
+    sc: https://www.edu.campusaprenderenred.com/mod/chat/view.php?id=2558
+    fc: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=2557
+
+  modulos:
+    m1:
+      nombre: Planificación y organización comercial
+    m2:
+      nombre: Generación y manejo de entrevistas comerciales
+    m3:
+      nombre: Objeciones, Cierre y Fidelización
+      f3: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=2591
+      c3: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=2590
