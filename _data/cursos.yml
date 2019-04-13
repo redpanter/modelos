@@ -1,4 +1,6 @@
 - nombre: Atención al Público
+  profe: Fernando
+  profe_completo: Fernando Menzi
   dia_chat: jueves a las 9 a.m.
   dia_inicio: 5 de febrero
   dia_fin: 4 de mayo
@@ -17,6 +19,8 @@
       c3: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=3178
 
 - nombre: Captación y Fidelización de Asociados
+  profe: Fernando
+  profe_completo: Fernando Menzi
   dia_chat: jueves a las 9 a.m.
   dia_inicio: 5 de febrero
   dia_fin: 4 de mayo

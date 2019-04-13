@@ -11,6 +11,8 @@ has_children: true
 |key | Replaced by         |
 |----|---------------------|
 | CC | Nombre del curso    |
+| PP | Nombre del profe    |
+| PC | Nombre del profe com|
 | M1 | Nombre del Modulo 1 |
 | M2 | Nombre del Modulo 2 |
 | M3 | Nombre del Modulo 3 |
