@@ -23,6 +23,7 @@ has_children: true
 |link| Replaced by         |
 |----|---------------------|
 | SC | Link Sala de Chat   |
+| FN | Link F. Novedades   |
 | FC | Link F. Café        |
 | F1 | Link F. Debate 1    |
 | F2 | Link F. Debate 2    |
