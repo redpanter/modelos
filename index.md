@@ -18,6 +18,7 @@ has_children: true
 | M3 | Nombre del Modulo 3 |
 | DC | Dia y Hora S.Chat   |
 | DI | Dia Inicio Curso    |
+| DA | Dia Pres. Avales    |
 | DF | Dia Fin del Curso   |
 
 |link| Replaced by         |
