@@ -20,6 +20,7 @@ has_children: true
 | DI | Dia Inicio Curso    |
 | DA | Dia Pres. Avales    |
 | DF | Dia Fin del Curso   |
+| DFF| Dia Fin formal Curso|
 
 |link| Replaced by         |
 |----|---------------------|
