@@ -1,3 +1,29 @@
+- nombre: ABC de las Herramientas Digitales de Comunicación
+  profe: Agostina
+  profe_completo: Agostina Simón
+  dia_chat: lunes de 19 a 20 hs.
+  dia_inicio: 12 de agosto
+  dia_fin: 1 de noviembre
+  dia_fin_final: 10 de noviembre
+  links:
+    fn: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=5292
+    sc: https://www.edu.campusaprenderenred.com/mod/chat/view.php?id=5294
+    fc: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=5293
+
+  modulos:
+    m1:
+      nombre: Introducción al universo digital
+      f1: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=5303
+      c1: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=5302
+    m2:
+      nombre: Las redes sociales y sus diversos usos
+      f2: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=5323
+      c2: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=5322
+    m3:
+      nombre: Herramientas digitales para el mundo laboral
+      f3: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=5342
+      c3: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=5341
+
 - nombre: Tablero de indicadores para organizaciones de la economía social
   profe: Tatiana y Damián
   profe_completo: Tatiana Bagnis y Damián Lopez
