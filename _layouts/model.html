@@ -2,7 +2,9 @@
 layout: default
 ---
 <script>
-   //Funcion para seleccionar un texto y copiarlo
+   /**
+     * Funcion para seleccionar un texto y copiarlo
+     */
    function select(element){
       if(element.nodeName.toLowerCase()=='textarea' || (element.nodeName.toLowerCase()=='input' && element.type=='text')){
          element.select();
