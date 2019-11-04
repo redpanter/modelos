@@ -1,0 +1,30 @@
+---
+layout: default
+title: Inicio
+nav_order: 1
+permalink: /
+has_children: true
+---
+<h1> Modelos de mensajes </h1>
+
+{% assign children_list = site.pages | sort:"nav_order" %}
+<ul>
+  {% for child in children_list %}
+  {% if child.has_children == true and child.title != page.title %}
+  <li>
+    <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>{% if child.summary %} - {{ child.summary }}{% endif %}
+    <blockquote>
+      <ol>
+	{% for subchild in children_list %}
+	  {% if subchild.parent == child.title %}
+	    <li>
+	      <a href="{{ subchild.url | absolute_url }}">{{ subchild.path | remove: "modelos/" | remove: ".html" }}</a>: {{ subchild.title }}{% if subchild.summary %} - {{ subchild.summary }}{% endif %}
+	    </li>
+	  {% endif %}
+	{% endfor %}
+      </ol>
+    </blockquote>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
