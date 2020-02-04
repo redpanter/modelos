@@ -1,5 +1,85 @@
 - nombre: Trabajo en equipo (Nivel 2) y negociación
   admin: Álvaro
+  profe: Mariano
+  profe_completo: Mariano Podstawek
+  dia_chat: 
+  dia_inicio: 3 de febrero
+  dia_fin: 1 de mayo
+  dia_fin_final: 8 de mayo
+  links:
+    fn: https://www.campus.aprenderenred.com.ar/mod/forum/view.php?id=7667
+    sc: https://www.campus.aprenderenred.com.ar/mod/chat/view.php?id=7669
+    fc: https://www.campus.aprenderenred.com.ar/mod/forum/view.php?id=7668
+
+  modulos: 
+    m1:
+      nombre: Introducción a la formación de formadores. Pedagogía y andragogía. Diseño y planificación
+      c1: https://www.campus.aprenderenred.com.ar/mod/resource/view.php?id=7677
+      f1: https://www.campus.aprenderenred.com.ar/mod/forum/view.php?id=7678
+    m2:
+      nombre: Aprendizaje. Recursos. Evaluación.
+      c2: https://www.campus.aprenderenred.com.ar/mod/resource/view.php?id=7691
+      f2: https://www.campus.aprenderenred.com.ar/mod/forum/view.php?id=7692
+    m3:
+      nombre: La retroalimentación
+      c3: https://www.campus.aprenderenred.com.ar/mod/resource/view.php?id=7703
+      f3: https://www.campus.aprenderenred.com.ar/mod/forum/view.php?id=7704
+
+- nombre: Trabajo en equipo (Nivel 2) y negociación
+  admin: Lore
+  profe: Gustavo
+  profe_completo: Gustavo Corradini
+  dia_chat: jueves de 16 a 17 hs.
+  dia_inicio: 3 de febrero
+  dia_fin: 1 de mayo
+  dia_fin_final: 8 de mayo
+  links:
+    fn: https://www.campus.aprenderenred.com.ar/mod/forum/view.php?id=7264
+    sc: https://www.campus.aprenderenred.com.ar/mod/chat/view.php?id=7266
+    fc: https://www.campus.aprenderenred.com.ar/mod/forum/view.php?id=7265
+
+  modulos: 
+    m1:
+      nombre: Planificación y control de gestión para el trabajo en equipo
+      c1: https://www.campus.aprenderenred.com.ar/mod/resource/view.php?id=7275
+      f1: https://www.campus.aprenderenred.com.ar/mod/forum/view.php?id=7274
+    m2:
+      nombre: Impulsando el accionar de nuestro equipo
+      c2: https://www.campus.aprenderenred.com.ar/mod/resource/view.php?id=7286
+      f2: https://www.campus.aprenderenred.com.ar/mod/forum/view.php?id=7287
+    m3:
+      nombre: Negociación aplicada
+      c3: https://www.campus.aprenderenred.com.ar/mod/resource/view.php?id=7298
+      f3: https://www.campus.aprenderenred.com.ar/mod/forum/view.php?id=7299
+
+- nombre: Trabajo en equipo (Nivel 2) y negociación
+  admin: Álvaro
+  profe: Gustavo
+  profe_completo: Gustavo Corradini
+  dia_chat: jueves de 16 a 17 hs.
+  dia_inicio: 4 de noviembre
+  dia_fin: 24 de enero
+  dia_fin_final: 31 de enero
+  links:
+    fn: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=6121
+    sc: https://www.edu.campusaprenderenred.com/mod/chat/view.php?id=6123
+    fc: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=6122
+
+  modulos: 
+    m1:
+      nombre: Planificación y control de gestión para el trabajo en equipo
+      c1: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=6132
+      f1: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=6131
+    m2:
+      nombre: Impulsando el accionar de nuestro equipo
+      c2: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=6143
+      f2: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=6144
+    m3:
+      nombre: Negociación aplicada
+      c3: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=6155
+      f3: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=6156
+- nombre: Trabajo en equipo (Nivel 2) y negociación
+  admin: Álvaro
   profe: Gustavo
   profe_completo: Gustavo Corradini
   dia_chat: jueves de 16 a 17 hs.
@@ -51,29 +131,3 @@
       nombre: Herramientas teórico-metodológicas para planificar en comunicación
       c3: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=6850
       f3: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=6851
-
-- nombre: ABC de las Herramientas Digitales de Comunicación
-  profe: Agostina
-  profe_completo: Agostina Simón
-  dia_chat: lunes de 21 a 22 hs.
-  dia_inicio: 12 de agosto
-  dia_fin: 1 de noviembre
-  dia_fin_final: 10 de noviembre
-  links:
-    fn: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=5292
-    sc: https://www.edu.campusaprenderenred.com/mod/chat/view.php?id=5294
-    fc: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=5293
-
-  modulos:
-    m1:
-      nombre: Introducción al universo digital
-      f1: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=5303
-      c1: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=5302
-    m2:
-      nombre: Las redes sociales y sus diversos usos
-      f2: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=5323
-      c2: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=5322
-    m3:
-      nombre: Herramientas digitales para el mundo laboral
-      f3: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=5342
-      c3: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=5341
