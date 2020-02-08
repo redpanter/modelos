@@ -9,6 +9,8 @@ permalink: /data/
 ## {{ curso.nombre }}
 #### Desde el {{ curso.dia_inicio }} hasta el {{ curso.dia_fin }}.
 
+**Admin**: {{ curso.admin }}.
+
 **Profe**: {{ curso.profe_completo }}.
 
 **Horario de sala de chat:** {{ curso.dia_chat }}
