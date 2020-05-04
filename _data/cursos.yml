@@ -1,3 +1,30 @@
+- nombre: Inteligencia Emocional y Neurociencias en las Organizaciones y en la Formación Personal
+  admin: Lorena
+  profe: Sergio y Matilde
+  profe_completo: Sergio y Matilde
+  dia_chat: dc
+  dia_inicio: 4 de mayo
+  dia_fin: 31 de julio
+  dia_fin_final: 7 de agosto
+  links:
+    fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9022
+    sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=9023
+    fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9022
+
+  modulos: 
+    m1:
+      nombre: Conociendo nuestro Cerebro
+      c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9032
+      f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9034
+    m2:
+      nombre: Habilidades de la Inteligencia Emocional
+      c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9051
+      f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9053
+    m3:
+      nombre: Utilizando las emociones a nuestro Favor
+      c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9070
+      f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9072
+
 - nombre: Formación de Formadores
   admin: Álvaro
   profe: Mariano
