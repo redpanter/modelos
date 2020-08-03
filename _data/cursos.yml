@@ -11,7 +11,7 @@
     sc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10442
     fc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=10443
 
-  modulos: 
+  modulos:
     m1:
       nombre: Conociendo nuestro Cerebro
       c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=10452
@@ -38,17 +38,17 @@
     sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=9149
     fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9148
 
-  modulos: 
+  modulos:
     m1:
-      nombre: Conociendo nuestro Cerebro
+      nombre: Planificación y control de gestión para el trabajo en equipo
       c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9158
       f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9157
     m2:
-      nombre: Habilidades de la Inteligencia Emocional
+      nombre: Impulsando el accionar de nuestro equipo
       c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9169
       f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9170
     m3:
-      nombre: Utilizando las emociones a nuestro Favor
+      nombre: Negociación aplicada
       c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9181
       f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9182
 
