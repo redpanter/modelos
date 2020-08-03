@@ -1,3 +1,57 @@
+- nombre: Trabajo en equipo (Nivel 2) y negociación
+  admin: Lorena
+  profe: Gustavo
+  profe_completo: Gustavo Corradini
+  dia_chat: martes de 22 a 23 hs.
+  dia_inicio: 3 de agosto
+  dia_fin: 31 de octubre
+  dia_fin_final: 7 de noviembre
+  links:
+    fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9147
+    sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=9149
+    fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9148
+
+  modulos: 
+    m1:
+      nombre: Conociendo nuestro Cerebro
+      c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9158
+      f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9157
+    m2:
+      nombre: Habilidades de la Inteligencia Emocional
+      c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9169
+      f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9170
+    m3:
+      nombre: Utilizando las emociones a nuestro Favor
+      c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9181
+      f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9182
+
+- nombre: Inteligencia Emocional y Neurociencias en las Organizaciones y en la Formación Personal
+  admin: Álvaro
+  profe: Sergio y Matilde
+  profe_completo: Sergio y Matilde
+  dia_chat: martes de 22 a 23 hs.
+  dia_inicio: 3 de agosto
+  dia_fin: 31 de octubre
+  dia_fin_final: 7 de noviembre
+  links:
+    fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10441
+    sc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10442
+    fc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=10443
+
+  modulos: 
+    m1:
+      nombre: Conociendo nuestro Cerebro
+      c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=10452
+      f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10454
+    m2:
+      nombre: Habilidades de la Inteligencia Emocional
+      c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=10471
+      f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10473
+    m3:
+      nombre: Utilizando las emociones a nuestro Favor
+      c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=10490
+      f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10492
+
 - nombre: Inteligencia Emocional y Neurociencias en las Organizaciones y en la Formación Personal
   admin: Lorena
   profe: Sergio y Matilde
@@ -24,58 +78,3 @@
       nombre: Utilizando las emociones a nuestro Favor
       c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9070
       f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9072
-
-- nombre: Formación de Formadores
-  admin: Álvaro
-  profe: Mariano
-  profe_completo: Mariano Podstawek
-  dia_chat: lunes de 13 a 14 hs.
-  dia_inicio: 3 de febrero
-  dia_fin: 1 de mayo
-  dia_fin_final: 8 de mayo
-  links:
-    fn: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=7459
-    sc: https://www.edu.campusaprenderenred.com/mod/chat/view.php?id=7461
-    fc: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=7460
-
-  modulos: 
-    m1:
-      nombre: Introducción a la formación de formadores. Pedagogía y andragogía. Diseño y planificación
-      c1: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=7469
-      f1: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=7470
-    m2:
-      nombre: Aprendizaje. Recursos. Evaluación.
-      c2: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=7483
-      f2: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=7484
-    m3:
-      nombre: La retroalimentación
-      c3: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=7495
-      f3: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=7496
-
-- nombre: Trabajo en equipo (Nivel 2) y negociación
-  admin: Lore
-  profe: Gustavo
-  profe_completo: Gustavo Corradini
-  dia_chat: jueves de 16 a 17 hs.
-  dia_inicio: 3 de febrero
-  dia_fin: 1 de mayo
-  dia_fin_final: 8 de mayo
-  links:
-    fn: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=7357
-    sc: https://www.edu.campusaprenderenred.com/mod/chat/view.php?id=7359
-    fc: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=7358
-
-  modulos: 
-    m1:
-      nombre: Planificación y control de gestión para el trabajo en equipo
-      c1: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=7368
-      f1: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=7367
-    m2:
-      nombre: Impulsando el accionar de nuestro equipo
-      c2: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=7379
-      f2: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=7380
-    m3:
-      nombre: Negociación aplicada
-      c3: https://www.edu.campusaprenderenred.com/mod/resource/view.php?id=7391
-      f3: https://www.edu.campusaprenderenred.com/mod/forum/view.php?id=7392
-
