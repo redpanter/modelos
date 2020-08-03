@@ -1,30 +1,3 @@
-- nombre: Trabajo en equipo (Nivel 2) y negociación
-  admin: Lorena
-  profe: Gustavo
-  profe_completo: Gustavo Corradini
-  dia_chat: martes de 22 a 23 hs.
-  dia_inicio: 3 de agosto
-  dia_fin: 31 de octubre
-  dia_fin_final: 7 de noviembre
-  links:
-    fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9147
-    sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=9149
-    fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9148
-
-  modulos: 
-    m1:
-      nombre: Conociendo nuestro Cerebro
-      c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9158
-      f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9157
-    m2:
-      nombre: Habilidades de la Inteligencia Emocional
-      c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9169
-      f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9170
-    m3:
-      nombre: Utilizando las emociones a nuestro Favor
-      c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9181
-      f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9182
-
 - nombre: Inteligencia Emocional y Neurociencias en las Organizaciones y en la Formación Personal
   admin: Álvaro
   profe: Sergio y Matilde
@@ -51,6 +24,33 @@
       nombre: Utilizando las emociones a nuestro Favor
       c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=10490
       f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10492
+
+- nombre: Trabajo en equipo (Nivel 2) y negociación
+  admin: Lorena
+  profe: Gustavo
+  profe_completo: Gustavo Corradini
+  dia_chat: martes de 22 a 23 hs.
+  dia_inicio: 3 de agosto
+  dia_fin: 31 de octubre
+  dia_fin_final: 7 de noviembre
+  links:
+    fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9147
+    sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=9149
+    fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9148
+
+  modulos: 
+    m1:
+      nombre: Conociendo nuestro Cerebro
+      c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9158
+      f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9157
+    m2:
+      nombre: Habilidades de la Inteligencia Emocional
+      c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9169
+      f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9170
+    m3:
+      nombre: Utilizando las emociones a nuestro Favor
+      c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9181
+      f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9182
 
 - nombre: Inteligencia Emocional y Neurociencias en las Organizaciones y en la Formación Personal
   admin: Lorena
