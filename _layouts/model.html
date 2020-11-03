@@ -19,6 +19,18 @@ layout: default
                | replace: 'CC', curso.nombre
                | replace: 'PP', curso.profe
                | replace: 'PC', curso.profe_completo
+               | replace: 'L1M1', curso.modulos.m1.l1
+               | replace: 'L2M1', curso.modulos.m1.l2
+               | replace: 'L3M1', curso.modulos.m1.l3
+               | replace: 'L4M1', curso.modulos.m1.l4
+               | replace: 'L1M2', curso.modulos.m2.l1
+               | replace: 'L2M2', curso.modulos.m2.l2
+               | replace: 'L3M2', curso.modulos.m2.l3
+               | replace: 'L4M2', curso.modulos.m2.l4
+               | replace: 'L1M3', curso.modulos.m3.l1
+               | replace: 'L2M3', curso.modulos.m3.l2
+               | replace: 'L3M3', curso.modulos.m3.l3
+               | replace: 'L4M3', curso.modulos.m3.l4
                | replace: 'M1', curso.modulos.m1.nombre
                | replace: 'M2', curso.modulos.m2.nombre
                | replace: 'M3', curso.modulos.m3.nombre
@@ -44,13 +56,25 @@ layout: default
                   | replace: 'CC', curso.nombre
                   | replace: 'PP', curso.profe
                   | replace: 'PC', curso.profe_completo
+                  | replace: 'L1M1', curso.modulos.m1.l1
+                  | replace: 'L2M1', curso.modulos.m1.l2
+                  | replace: 'L3M1', curso.modulos.m1.l3
+                  | replace: 'L4M1', curso.modulos.m1.l4
+                  | replace: 'L1M2', curso.modulos.m2.l1
+                  | replace: 'L2M2', curso.modulos.m2.l2
+                  | replace: 'L3M2', curso.modulos.m2.l3
+                  | replace: 'L4M2', curso.modulos.m2.l4
+                  | replace: 'L1M3', curso.modulos.m3.l1
+                  | replace: 'L2M3', curso.modulos.m3.l2
+                  | replace: 'L3M3', curso.modulos.m3.l3
+                  | replace: 'L4M3', curso.modulos.m3.l4
                   | replace: 'M1', curso.modulos.m1.nombre
                   | replace: 'M2', curso.modulos.m2.nombre
                   | replace: 'M3', curso.modulos.m3.nombre
                   | replace: 'DC', curso.dia_chat
                   | replace: 'DI', curso.dia_inicio
                   | replace: 'DA', site.dia_aval
-	          | replace: 'DFF', curso.dia_fin_final
+                  | replace: 'DFF', curso.dia_fin_final
                   | replace: 'DF', curso.dia_fin
                   | replace: 'FN', curso.links.fn
                   | replace: 'SC', curso.links.sc
