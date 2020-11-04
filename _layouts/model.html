@@ -39,6 +39,8 @@ layout: default
                | replace: 'DA', site.dia_aval
                | replace: 'DFF', curso.dia_fin_final
                | replace: 'DF', curso.dia_fin
+               | replace: 'CG', curso.links.modulos.m0.cg
+               | replace: 'PRE', curso.links.modulos.m0.pre
                | replace: 'FN', curso.links.fn
                | replace: 'SC', curso.links.sc
                | replace: 'FC', curso.links.fc
@@ -48,6 +50,9 @@ layout: default
                | replace: 'C1', curso.modulos.m1.c1
                | replace: 'C2', curso.modulos.m2.c2
                | replace: 'C3', curso.modulos.m3.c3
+               | replace: 'CER', curso.modulos.mf.cer
+               | replace: 'FF', curso.modulos.mf.ff
+               | replace: 'ENC', curso.modulos.mf.enc
                }}</h3>
    <!-- Al clickear algun cuadro se debe seleccionar -->
    <div onclick="select(this)">
@@ -76,6 +81,8 @@ layout: default
                   | replace: 'DA', site.dia_aval
                   | replace: 'DFF', curso.dia_fin_final
                   | replace: 'DF', curso.dia_fin
+                  | replace: 'CG', curso.links.modulos.m0.cg
+                  | replace: 'PRE', curso.links.modulos.m0.pre
                   | replace: 'FN', curso.links.fn
                   | replace: 'SC', curso.links.sc
                   | replace: 'FC', curso.links.fc
@@ -85,6 +92,9 @@ layout: default
                   | replace: 'C1', curso.modulos.m1.c1
                   | replace: 'C2', curso.modulos.m2.c2
                   | replace: 'C3', curso.modulos.m3.c3
+                  | replace: 'CER', curso.modulos.mf.cer
+                  | replace: 'FF', curso.modulos.mf.ff
+                  | replace: 'ENC', curso.modulos.mf.enc
                   }}
       {% endhighlight %}
    </div>

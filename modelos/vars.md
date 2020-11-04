@@ -24,6 +24,8 @@ has_children: true
 
 | link | Replaced by        |
 |------|--------------------|
+| PRE  | Present. del curso |
+| CG   | Link Cronograma G. |
 | SC   | Link Sala de Chat  |
 | FN   | Link F. Novedades  |
 | FC   | Link F. Café       |
@@ -40,6 +42,9 @@ has_children: true
 | L2M2 | Link Lec. 2 Mod 2  |
 | ...  | ...                |
 | L4M3 | Link Lec. 4 Mod 3  |
+| CER  | Certificado        |
+| FF   | Foro Finalizacion  |
+| ENC  | Encuesta finaliz.  |
 
 | Momentamente | no aceptados        |
 |--------------|---------------------|
