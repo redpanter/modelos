@@ -27,6 +27,7 @@ has_children: true
 | PRE  | Present. del curso |
 | CG   | Link Cronograma G. |
 | SC   | Link Sala de Chat  |
+| AV   | Link Aval          |
 | FN   | Link F. Novedades  |
 | FC   | Link F. Café       |
 | F1   | Link F. Debate 1   |
@@ -42,7 +43,7 @@ has_children: true
 | L2M2 | Link Lec. 2 Mod 2  |
 | ...  | ...                |
 | L4M3 | Link Lec. 4 Mod 3  |
-| CER  | Certificado        |
+| CER  | Link Certificado   |
 | FF   | Foro Finalizacion  |
 | ENC  | Encuesta finaliz.  |
 

@@ -11,6 +11,7 @@
     fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=11822
     sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=11824
     fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=11823
+    av: https://campus.aprenderenred.com.ar/mod/assign/view.php?id=11826
 
   modulos:
     m0:
@@ -58,6 +59,7 @@
     fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=12575
     sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=12577
     fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=12576
+    av: https://campus.aprenderenred.com.ar/mod/assign/view.php?id=12579
 
   modulos:
     m0:
@@ -105,6 +107,7 @@
     fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10441
     sc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10442
     fc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=10443
+    av: 
 
   modulos:
     m0:
@@ -152,6 +155,7 @@
     fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9147
     sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=9149
     fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9148
+    av: 
 
   modulos:
     m0:
