@@ -3,7 +3,6 @@ layout: default
 title: "Variables to use."
 nav_order: 100
 permalink: /vars/
-has_children: true
 ---
 
 ## Variables to use

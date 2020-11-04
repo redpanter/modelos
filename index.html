@@ -3,7 +3,6 @@ layout: default
 title: Inicio
 nav_order: 1
 permalink: /
-has_children: true
 ---
 <h1> Modelos de mensajes </h1>
 
@@ -12,7 +11,7 @@ has_children: true
   {% for child in children_list %}
   {% if child.has_children == true and child.title != page.title %}
   <li>
-    <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>{% if child.summary %} - {{ child.summary }}{% endif %}
+      <a href="{{ child.url | absolute_url }}" {% if child.download %} download {% endif %}>{{ child.title }}</a>{% if child.summary %} - {{ child.summary }}{% endif %}
     <blockquote>
       <ol>
 	{% for subchild in children_list %}

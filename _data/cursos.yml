@@ -1,4 +1,5 @@
 - nombre: Inteligencia Emocional y Neurociencias en las Organizaciones y en la Formación Personal
+  nombre_corto: IENOF
   edicion: 2011
   admin: Álvaro
   profe: Marcelo y Matilde
@@ -8,6 +9,7 @@
   dia_fin: 30 de enero
   dia_fin_final: 6 de febrero
   links:
+    id: 203
     fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=11822
     sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=11824
     fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=11823
@@ -47,6 +49,7 @@
       enc: https://campus.aprenderenred.com.ar/mod/feedback/view.php?id=11892
 
 - nombre: Trabajo en equipo (Nivel 2) y negociación
+  nombre_corto: TENEG
   edicion: 2011
   admin: Lorena
   profe: Gustavo
@@ -56,6 +59,7 @@
   dia_fin: 30 de enero
   dia_fin_final: 6 de febrero
   links:
+    id: 214
     fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=12575
     sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=12577
     fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=12576
@@ -95,6 +99,7 @@
       enc: https://campus.aprenderenred.com.ar/mod/feedback/view.php?id=12623
 
 - nombre: Inteligencia Emocional y Neurociencias en las Organizaciones y en la Formación Personal
+  nombre_corto: IENOF
   edicion: 2008
   admin: Álvaro
   profe: Sergio y Matilde
@@ -104,6 +109,7 @@
   dia_fin: 31 de octubre
   dia_fin_final: 7 de noviembre
   links:
+    id:
     fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10441
     sc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10442
     fc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=10443
@@ -143,6 +149,7 @@
       enc: 
 
 - nombre: Trabajo en equipo (Nivel 2) y negociación
+  nombre_corto: TENEG
   edicion: 2008
   admin: Lorena
   profe: Gustavo
@@ -152,6 +159,7 @@
   dia_fin: 31 de octubre
   dia_fin_final: 7 de noviembre
   links:
+    id:
     fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9147
     sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=9149
     fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9148
