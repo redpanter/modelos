@@ -19,18 +19,6 @@ layout: default
                | replace: 'CC', curso.nombre
                | replace: 'PP', curso.profe
                | replace: 'PC', curso.profe_completo
-               | replace: 'L1M1', curso.modulos.m1.l1
-               | replace: 'L2M1', curso.modulos.m1.l2
-               | replace: 'L3M1', curso.modulos.m1.l3
-               | replace: 'L4M1', curso.modulos.m1.l4
-               | replace: 'L1M2', curso.modulos.m2.l1
-               | replace: 'L2M2', curso.modulos.m2.l2
-               | replace: 'L3M2', curso.modulos.m2.l3
-               | replace: 'L4M2', curso.modulos.m2.l4
-               | replace: 'L1M3', curso.modulos.m3.l1
-               | replace: 'L2M3', curso.modulos.m3.l2
-               | replace: 'L3M3', curso.modulos.m3.l3
-               | replace: 'L4M3', curso.modulos.m3.l4
                | replace: 'M1', curso.modulos.m1.nombre
                | replace: 'M2', curso.modulos.m2.nombre
                | replace: 'M3', curso.modulos.m3.nombre
@@ -39,21 +27,6 @@ layout: default
                | replace: 'DA', site.dia_aval
                | replace: 'DFF', curso.dia_fin_final
                | replace: 'DF', curso.dia_fin
-               | replace: 'CG', curso.links.modulos.m0.cg
-               | replace: 'PRE', curso.links.modulos.m0.pre
-               | replace: 'FN', curso.links.fn
-               | replace: 'SC', curso.links.sc
-               | replace: 'FC', curso.links.fc
-               | replace: 'AV', curso.links.av
-               | replace: 'F1', curso.modulos.m1.f1
-               | replace: 'F2', curso.modulos.m2.f2
-               | replace: 'F3', curso.modulos.m3.f3
-               | replace: 'C1', curso.modulos.m1.c1
-               | replace: 'C2', curso.modulos.m2.c2
-               | replace: 'C3', curso.modulos.m3.c3
-               | replace: 'CER', curso.modulos.mf.cer
-               | replace: 'FF', curso.modulos.mf.ff
-               | replace: 'ENC', curso.modulos.mf.enc
                }}</h3>
    <!-- Al clickear algun cuadro se debe seleccionar -->
    <div onclick="select(this)">
