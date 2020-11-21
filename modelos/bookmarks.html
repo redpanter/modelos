@@ -93,10 +93,19 @@ download: true
             </DL><p>
             <DT><H3 >aval</H3>
             <DL><p>
-                {% for curso in cursos_edicion %}
-                    <DT><A HREF="{{curso.links.av}}">{{curso.nombre_corto}}</A>
-                {% endfor %}
-            </DL><p>
+		    <DT><H3 >marcar</H3>
+		    <DL><p>
+			{% for curso in cursos_edicion %}
+			    <DT><A HREF="https://campus.aprenderenred.com.ar/report/progress/?course={{curso.links.id}}&silast=all&sifirst=all">{{curso.nombre_corto}}</A>
+			{% endfor %}
+		    </DL><p>
+		    <DT><H3 >tarea</H3>
+		    <DL><p>
+			{% for curso in cursos_edicion %}
+			    <DT><A HREF="{{curso.links.av}}">{{curso.nombre_corto}}</A>
+			{% endfor %}
+		    </DL><p>
+	    </DL><p>
             <DT><H3 >fin</H3>
             <DL><p>
                 <DT><H3 >cert.</H3>
