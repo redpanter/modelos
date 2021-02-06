@@ -1,3 +1,103 @@
+- nombre: Gestión de Campañas de Prevención en Salud y Calidad de Vida
+  nombre_corto: GESCP
+  id: 07
+  edicion: 2102
+  admin: Álvaro
+  profe: Mariano
+  profe_completo: Mariano Podstawek
+  dia_chat: 
+  dia_inicio: 16 de febrero
+  dia_fin: 7 de mayo
+  dia_fin_final: 14 de mayo
+  links:
+    id: 231
+    fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13636
+    sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=13638
+    fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13637
+    av: https://campus.aprenderenred.com.ar/mod/assign/view.php?id=13640
+  modulos:
+    m0:
+      cg: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13642
+      pc: https://campus.aprenderenred.com.ar/mod/page/view.php?id=13641
+    m1:
+      nombre: Conceptos generales, referencias históricas, antecedentes, estadísticas y casos de éxito
+      c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13646
+      f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13647
+      l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13649
+      l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13651
+      l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13654
+      l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13656
+    m2:
+      nombre: Armado, coordinación y ejecución de campañas. Estrategias y actores que intervienen
+        c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13658
+        f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13659
+        l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13661
+        l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13663
+        l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13666
+        l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13668
+    m3:
+      nombre: Resultados y seguimiento de pacientes en riesgo.
+        c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13670
+        f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13671
+        l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13673
+        l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13675
+        l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13678
+        l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13682
+    mf:
+      cer: https://campus.aprenderenred.com.ar/mod/customcert/view.php?id=13686
+      ff: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13684
+      enc: https://campus.aprenderenred.com.ar/mod/feedback/view.php?id=13685
+
+- nombre: Inteligencia Emocional y Neurociencias en las Organizaciones y en la Formación Personal
+  nombre_corto: IENOF
+  id: 11
+  edicion: 2102
+  admin: Álvaro
+  profe: Marcelo y Matilde
+  profe_completo: Marcelo y Matilde
+  dia_chat: 
+  dia_inicio: 16 de febrero
+  dia_fin: 7 de mayo
+  dia_fin_final: 14 de mayo
+  links:
+    id: 233
+    fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13742
+    sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=13744
+    fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13743
+    av: https://campus.aprenderenred.com.ar/mod/assign/view.php?id=13746
+  modulos:
+    m0:
+      cg: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13747
+      pre: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13749
+    m1:
+      nombre: Conociendo nuestro Cerebro
+        c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13753
+        f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13755
+        l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13757
+        l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13761
+        l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13765
+        l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13769
+    m2:
+      nombre: Habilidades de la Inteligencia Emocional
+        c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13772
+        f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13774
+        l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13776
+        l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13780
+        l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13784
+        l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13788
+    m3:
+      nombre: Utilizando las emociones a nuestro Favor
+        c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13791
+        f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13793
+        l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13795
+        l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13799
+        l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13803
+        l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13807
+    mf:
+      cer: https://campus.aprenderenred.com.ar/mod/customcert/view.php?id=13813
+      ff: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13811
+      enc: https://campus.aprenderenred.com.ar/mod/feedback/view.php?id=13812
+
 - nombre: Inteligencia Emocional y Neurociencias en las Organizaciones y en la Formación Personal
   nombre_corto: IENOF
   edicion: 2011
@@ -97,103 +197,3 @@
       cer: https://campus.aprenderenred.com.ar/mod/customcert/view.php?id=12624
       ff: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=12622
       enc: https://campus.aprenderenred.com.ar/mod/feedback/view.php?id=12623
-
-- nombre: Inteligencia Emocional y Neurociencias en las Organizaciones y en la Formación Personal
-  nombre_corto: IENOF
-  edicion: 2008
-  admin: Álvaro
-  profe: Sergio y Matilde
-  profe_completo: Sergio y Matilde
-  dia_chat: martes de 22 a 23 hs.
-  dia_inicio: 3 de agosto
-  dia_fin: 31 de octubre
-  dia_fin_final: 7 de noviembre
-  links:
-    id:
-    fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10441
-    sc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10442
-    fc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=10443
-    av: 
-
-  modulos:
-    m0:
-      cg: 
-      pc: 
-    m1:
-      nombre: Conociendo nuestro Cerebro
-      c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=10452
-      f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10454
-      l1: 
-      l2: 
-      l3: 
-      l4: 
-    m2:
-      nombre: Habilidades de la Inteligencia Emocional
-      c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=10471
-      f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10473
-      l1: 
-      l2: 
-      l3: 
-      l4: 
-    m3:
-      nombre: Utilizando las emociones a nuestro Favor
-      c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=10490
-      f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=10492
-      l1: 
-      l2: 
-      l3: 
-      l4: 
-    mf:
-      cer: 
-      ff: 
-      enc: 
-
-- nombre: Trabajo en equipo (Nivel 2) y negociación
-  nombre_corto: TENEG
-  edicion: 2008
-  admin: Lorena
-  profe: Gustavo
-  profe_completo: Gustavo Corradini
-  dia_chat: viernes de 19 a 20 hs.
-  dia_inicio: 3 de agosto
-  dia_fin: 31 de octubre
-  dia_fin_final: 7 de noviembre
-  links:
-    id:
-    fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9147
-    sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=9149
-    fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9148
-    av: 
-
-  modulos:
-    m0:
-      cg: 
-      pc: 
-    m1:
-      nombre: Planificación y control de gestión para el trabajo en equipo
-      c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9158
-      f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9157
-      l1: 
-      l2: 
-      l3: 
-      l4: 
-    m2:
-      nombre: Impulsando el accionar de nuestro equipo
-      c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9169
-      f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9170
-      l1: 
-      l2: 
-      l3: 
-      l4: 
-    m3:
-      nombre: Negociación aplicada
-      c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=9181
-      f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=9182
-      l1: 
-      l2: 
-      l3: 
-      l4: 
-    mf:
-      cer: 
-      ff: 
-      enc: 
