@@ -20,7 +20,7 @@
       cg: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13642
       pc: https://campus.aprenderenred.com.ar/mod/page/view.php?id=13641
     m1:
-      nombre: Conceptos generales, referencias históricas, antecedentes, estadísticas y casos de éxito
+      nombre: "Conceptos generales, referencias históricas, antecedentes, estadísticas y casos de éxito"
       c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13646
       f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13647
       l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13649
@@ -28,21 +28,21 @@
       l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13654
       l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13656
     m2:
-      nombre: Armado, coordinación y ejecución de campañas. Estrategias y actores que intervienen
-        c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13658
-        f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13659
-        l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13661
-        l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13663
-        l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13666
-        l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13668
+      nombre: "Armado, coordinación y ejecución de campañas. Estrategias y actores que intervienen"
+      c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13658
+      f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13659
+      l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13661
+      l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13663
+      l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13666
+      l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13668
     m3:
-      nombre: Resultados y seguimiento de pacientes en riesgo.
-        c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13670
-        f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13671
-        l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13673
-        l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13675
-        l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13678
-        l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13682
+      nombre: "Resultados y seguimiento de pacientes en riesgo."
+      c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13670
+      f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13671
+      l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13673
+      l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13675
+      l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13678
+      l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13682
     mf:
       cer: https://campus.aprenderenred.com.ar/mod/customcert/view.php?id=13686
       ff: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13684
@@ -71,28 +71,28 @@
       pre: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13749
     m1:
       nombre: Conociendo nuestro Cerebro
-        c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13753
-        f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13755
-        l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13757
-        l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13761
-        l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13765
-        l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13769
+      c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13753
+      f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13755
+      l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13757
+      l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13761
+      l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13765
+      l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13769
     m2:
       nombre: Habilidades de la Inteligencia Emocional
-        c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13772
-        f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13774
-        l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13776
-        l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13780
-        l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13784
-        l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13788
+      c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13772
+      f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13774
+      l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13776
+      l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13780
+      l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13784
+      l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13788
     m3:
       nombre: Utilizando las emociones a nuestro Favor
-        c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13791
-        f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13793
-        l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13795
-        l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13799
-        l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13803
-        l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13807
+      c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13791
+      f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13793
+      l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13795
+      l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13799
+      l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13803
+      l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=13807
     mf:
       cer: https://campus.aprenderenred.com.ar/mod/customcert/view.php?id=13813
       ff: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=13811
