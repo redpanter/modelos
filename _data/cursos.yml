@@ -1,3 +1,103 @@
+- nombre: Inteligencia Emocional y Neurociencias en las Organizaciones y en la Formación Personal
+  nombre_corto: IENOF
+  id: 11
+  edicion: 2105
+  admin: Álvaro
+  profe: Marcelo y Matilde
+  profe_completo: Marcelo y Matilde
+  dia_chat: 
+  dia_inicio: 10 de mayo
+  dia_fin: 30 de julio
+  dia_fin_final: 6 de agosto
+  links:
+    id: 247
+    fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14684
+    sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=14686
+    fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14685
+    av: https://campus.aprenderenred.com.ar/mod/assign/view.php?id=14688
+  modulos:
+    m0:
+      cg: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14689
+      pre: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14691
+    m1:
+      nombre: Conociendo nuestro Cerebro
+      c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14695
+      f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14697
+      l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14699
+      l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14703
+      l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14707
+      l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14711
+    m2:
+      nombre: Habilidades de la Inteligencia Emocional
+      c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14714
+      f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14716
+      l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14718
+      l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14722
+      l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14726
+      l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14730
+    m3:
+      nombre: Utilizando las emociones a nuestro Favor
+      c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14733
+      f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14735
+      l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14737
+      l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14741
+      l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14745
+      l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14749
+    mf:
+      cer: https://campus.aprenderenred.com.ar/mod/customcert/view.php?id=14755
+      ff: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14753
+      enc: https://campus.aprenderenred.com.ar/mod/feedback/view.php?id=14754
+
+- nombre: Tablero de indicadores para organizaciones de la economía social
+  nombre_corto: TOECS
+  id: 19
+  edicion: 2105
+  admin: Álvaro
+  profe: Ana Guidi, Emilse y Tatiana
+  profe_completo: Ana Guidi, Emilse y Tatiana
+  dia_chat: 
+  dia_inicio: 10 de mayo
+  dia_fin: 30 de julio
+  dia_fin_final: 6 de agosto
+  links:
+    id: 250
+    fn: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14876
+    sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=14878
+    fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14877
+    av: https://campus.aprenderenred.com.ar/mod/assign/view.php?id=14880
+  modulos:
+    m0:
+      cg: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14882
+      pre: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14881
+    m1:
+      nombre: Sentando las bases para el desarrollo de tableros
+      c1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14886
+      f1: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14887
+      l1: 
+      l2: 
+      l3: 
+      l4: 
+    m2:
+      nombre: Herramientas estadísticas y Microsoft Excel
+      c2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14907
+      f2: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14908
+      l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14910
+      l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14916
+      l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14921
+      l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14924
+    m3:
+      nombre: Tablero de indicadores
+      c3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14929
+      f3: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14930
+      l1: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14932
+      l2: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14934
+      l3: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14937
+      l4: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14939
+    mf:
+      cer: https://campus.aprenderenred.com.ar/mod/customcert/view.php?id=14944
+      ff:  https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14942
+      enc: https://campus.aprenderenred.com.ar/mod/feedback/view.php?id=14943
+
 - nombre: Gestión de Campañas de Prevención en Salud y Calidad de Vida
   nombre_corto: GESCP
   id: 07
@@ -5,7 +105,7 @@
   admin: Álvaro
   profe: Mariano
   profe_completo: Mariano Podstawek
-  dia_chat: lunes de 13 a 14 hs.
+  dia_chat: 
   dia_inicio: 16 de febrero
   dia_fin: 7 de mayo
   dia_fin_final: 14 de mayo
@@ -55,7 +155,7 @@
   admin: Álvaro
   profe: Marcelo y Matilde
   profe_completo: Marcelo y Matilde
-  dia_chat: martes de 20 a 21 hs.
+  dia_chat: 
   dia_inicio: 16 de febrero
   dia_fin: 7 de mayo
   dia_fin_final: 14 de mayo
