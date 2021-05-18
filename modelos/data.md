@@ -13,7 +13,13 @@ permalink: /data/
 
 **Profe**: {{ curso.profe_completo }}.
 
+**Correo/s**: {{ curso.correo }}
+
 **Horario de sala de chat:** {{ curso.dia_chat }}
+
+**Nota**: {{ curso.nota }}
+
+**Seguimiento**: {{ curso.links.seguimiento }}
 
 **Módulos:**
 1. {{ curso.modulos.m1.nombre }}

@@ -4,7 +4,16 @@ layout: default
 
 <script src="{{ site.baseurl }}/assets/select.js"></script>
 <!-- Hardcoding code indent solution -->
-<style>pre{white-space: pre-line;}</style>
+<style>
+pre{
+  white-space: pre-line;
+}
+.slugspan {
+  padding: 1px 4px;
+  background: hsl(214deg 65% 28%);
+  font-weight: bold;
+}
+</style>
 
 <h3>Mensaje Moelo:</h3>
 
@@ -14,7 +23,8 @@ layout: default
 
 <!-- Imprimir una vez por curso: -->
 {% for curso in site.data.cursos %}
-   <h2>Curso: {{ curso.nombre }}</h2>
+<h2><span class='slugspan'>{{ curso.nombre_corto }}{{ curso.edicion }}</span>: {{ curso.nombre }}</h2>
+<h4> A tener en cuenta: {{ curso.nota }} </h4>
    <h3>Título: {{ page.title
                | replace: 'CC', curso.nombre
                | replace: 'PP', curso.profe

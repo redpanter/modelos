@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 .bundle/
 vendor/
+
+# VIM
+tags

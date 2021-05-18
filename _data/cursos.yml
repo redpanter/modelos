@@ -5,7 +5,11 @@
   admin: Álvaro
   profe: Marcelo y Matilde
   profe_completo: Marcelo y Matilde
-  dia_chat: 
+  correo: matildej@gmail.com
+  dia_chat: martes de 20 a 21hs
+  nota: |
+    La profe Matilde es la que se conecta en la Sala de Chat.
+    El curso tiene <b>cuatro</b> cuestionarios por módulo, el doble de lo normal.
   dia_inicio: 10 de mayo
   dia_fin: 30 de julio
   dia_fin_final: 6 de agosto
@@ -15,6 +19,7 @@
     sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=14686
     fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14685
     av: https://campus.aprenderenred.com.ar/mod/assign/view.php?id=14688
+    seg: https://docs.google.com/spreadsheets/d/1Z6orSOxu91ngYHJExi-np_Y6yBB2tPtWlA9lbSZVOOw/edit?ts=609dafc4#gid=1662684812
   modulos:
     m0:
       cg: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14689
@@ -55,7 +60,12 @@
   admin: Álvaro
   profe: Ana Guidi, Emilse y Tatiana
   profe_completo: Ana Guidi, Emilse y Tatiana
-  dia_chat: 
+  correo: ana.guidi@quappro.com, emilse.mourino@gmail.com, tatibagnis@hotmail.com
+  dia_chat: martes de 17 a 18hs
+  nota: |
+    El curso tiene 5 lecturas en el primer módulo. Hay que estar atentos.
+    La sala de chat va a ser atendida por la profe Ana los primeros 2 módulos.
+    El último módulo va a ser Emilse quien se conecte.
   dia_inicio: 10 de mayo
   dia_fin: 30 de julio
   dia_fin_final: 6 de agosto
@@ -65,6 +75,7 @@
     sc: https://campus.aprenderenred.com.ar/mod/chat/view.php?id=14878
     fc: https://campus.aprenderenred.com.ar/mod/forum/view.php?id=14877
     av: https://campus.aprenderenred.com.ar/mod/assign/view.php?id=14880
+    seg: https://docs.google.com/spreadsheets/d/1kRy1ueo9EpHITx1sCxRn0rRahBOmBvIhiEl4rp4tW1g/edit?ts=609db348#gid=1662684812
   modulos:
     m0:
       cg: https://campus.aprenderenred.com.ar/mod/resource/view.php?id=14882
